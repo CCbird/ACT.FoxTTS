@@ -15,6 +15,7 @@ Add Chinese TTS (and maybe more) to ACT &amp; TTSYukkuri
 - [阿里语音](https://ai.aliyun.com/nls/tts)
 - [微软语音](https://azure.microsoft.com/zh-cu/services/cognitive-services/text-to-speech/)
 - SAPI5 (Windows 自带TTS)
+- Tcat TTS (自制)
 
 # 如何使用
 0. 从这里下载最新版的插件 [https://github.com/Noisyfox/ACT.FoxTTS/releases](https://github.com/Noisyfox/ACT.FoxTTS/releases).
