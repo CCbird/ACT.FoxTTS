@@ -7,8 +7,7 @@
 - SAPI5 (Windows 自带TTS)
 - Tcat TTS (自制，需搭配[自建TTS引擎](https://github.com/CCbird/MockingBird/releases/tag/0.0.1beta)食用) 
 
-以下为原版使用说明:
-# 如何使用
+# 以下为原版使用说明,该版本适用:
 0. 从这里下载最新版的插件 [https://github.com/Noisyfox/ACT.FoxTTS/releases](https://github.com/Noisyfox/ACT.FoxTTS/releases).
 1. 将7z压缩包内的全部文件解压并覆盖到ACT的安装目录（ACT可执行文件本体所在目录）下。
 2. 打开ACT，在 功能插件 -> 插件列表 选项卡中添加并启用ACT.FoxTTS.dll插件。
