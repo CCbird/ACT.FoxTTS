@@ -5,7 +5,7 @@
 目前支持的 TTS 服务为：
 - 原版自带
 - SAPI5 (Windows 自带TTS)
-- Tcat TTS (自制，需搭配[自建TTS引擎食用](https://github.com/CCbird/MockingBird/releases/tag/0.0.1beta)) 
+- Tcat TTS (自制，需搭配[自建TTS引擎](https://github.com/CCbird/MockingBird/releases/tag/0.0.1beta)食用) 
 
 以下为原版使用说明:
 # 如何使用
